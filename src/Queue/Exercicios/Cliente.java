@@ -1,5 +1,7 @@
 package Queue.Exercicios;
 
+import java.util.Queue;
+
 public class Cliente {
     private String nome;
     private double mediaAtendimento;
